@@ -2,6 +2,8 @@
 icon: lucide/rocket
 ---
 
+Test change for GitHub workflow
+
 # Get started
 
 For full documentation visit [zensical.org](https://zensical.org/docs/).
